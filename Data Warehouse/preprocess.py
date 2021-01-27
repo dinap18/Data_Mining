@@ -1,7 +1,7 @@
 """
 Data Mining Assignment 1
-Dina Pinchuck 337593958
-Liel Orenstein 209220730
+Dina Pinchuck
+Liel Orenstein
 
 """
 from collections import defaultdict
